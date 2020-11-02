@@ -34,7 +34,7 @@ const port = 5000
 
 //Litsen Commands
 app.listen(port, (req, res) => {
-    console.log(`App Running on Port${port}`)
+    console.log(`App Running Port${port}`)
 })
 
 // http://localhost:5001/e-clone-2c81e/us-central1/api
