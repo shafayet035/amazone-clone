@@ -1,0 +1,22 @@
+.sing__order {
+  background: #ffffff;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 1550px;
+  width: 100%;
+}
+
+.order_date {
+  font-size: 18px;
+}
+
+.order_id {
+  margin: 15px 0;
+  font-weight: bold;
+}
+
+.order__total {
+  font-size: 20px;
+  font-weight: bold;
+}

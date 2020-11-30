@@ -37,3 +37,9 @@ button:disabled {
   background: #ccc;
   cursor: not-allowed;
 }
+
+@media (max-width: 576px) {
+  body {
+    margin-top: 120px;
+  }
+}

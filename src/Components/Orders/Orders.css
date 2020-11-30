@@ -1,0 +1,11 @@
+.orders {
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.orders h2 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: rgb(72, 72, 72);
+}

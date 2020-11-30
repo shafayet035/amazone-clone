@@ -1,0 +1,47 @@
+.payment {
+  max-width: 700px;
+  margin: auto;
+  padding: 10px;
+}
+
+.payment_form {
+  padding: 20px;
+  background: #f4f4f4;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.payment_form form input {
+  display: block;
+  padding: 7px;
+  width: 100%;
+  margin: 10px 0;
+  border: 1px solid lightgrey;
+  outline: none;
+}
+
+.payment_proccess {
+  margin: 10px;
+}
+
+.payment_proccess form {
+  background: #f4f4f4;
+  border: 1px solid lightgrey;
+  padding: 20px;
+}
+
+.payment_buy_button {
+  width: 100%;
+}
+
+.payment_total_price h5 {
+  margin: 15px 0;
+}
+
+.payment_proccess .span {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: rgb(255, 123, 100);
+}

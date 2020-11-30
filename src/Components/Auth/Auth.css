@@ -1,0 +1,56 @@
+.authentication {
+  display: grid;
+  place-items: center;
+  min-height: 90vh;
+}
+
+.auth_form_parent {
+  background: #f4f4f4;
+  border: 1px solid lightgrey;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 400px;
+}
+
+.auth_form {
+  display: flex;
+  flex-direction: column;
+}
+
+.auth_form input {
+  padding: 10px;
+  outline: none;
+  border: 1px solid lightgrey;
+  margin: 5px 0;
+  font-size: 16px;
+  width: 100%;
+}
+
+.auth_form button {
+  margin: 10px 0;
+  width: 100%;
+}
+
+.signUp {
+  text-align: center;
+}
+.signUp p {
+  font-size: 14px;
+  margin: 15px 0;
+}
+
+.signUp button {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.auth_form label {
+  font-size: 14px;
+  color: #333;
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+
+.auth_err {
+  color: red;
+}
